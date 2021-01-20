@@ -6,7 +6,7 @@ public class Master {
 		
 		int a=10;
 		System.out.println("a");
-		System.out.println("SK");
+		System.out.println("SK ------- Khan");
 	}
 	
 	
