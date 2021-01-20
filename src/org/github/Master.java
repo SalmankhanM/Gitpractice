@@ -6,7 +6,12 @@ public class Master {
 		
 		int a=10;
 		System.out.println("a");
+		System.out.println("SK");
+		int b=2020;
+		int c=a+b;
+		System.out.println(c);
 		System.out.println("SK ------- Khan");
+
 	}
 	
 	
